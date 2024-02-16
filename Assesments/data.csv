@@ -1,0 +1,18 @@
+age,income,student,credit rating,buys computer
+<=30,high,no,fair,no
+<=30,high,no,fair,no
+31..40,high,no,fair,yes
+>40,medium,no,fair,yes
+>40,low,yes,fair,yes
+31..40,low,yes,fair,yes
+31..40,low,yes,fair,no
+31..40,low,yes,fair,yes
+<=30,medium,no,fair,no
+<=30,medium,no,fair,yes
+>40,medium,yes,fair,yes
+<=30,medium,yes,fair,yes
+<=30,medium,yes,excellent,yes
+31..40,medium,no,excellent,yes
+31..40,high,yes,fair,yes
+>40,medium,no,excellent,no
+
